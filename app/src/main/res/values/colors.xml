@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1e1e1e</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#1DB954</color>
+    <color name="gray">#121212</color>
+    <style name="CardView." parent="CardView">
+        <item name="android:foreground">@drawable/gradient_color</item>
+    </style>
+</resources>

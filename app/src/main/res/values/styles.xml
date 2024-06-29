@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="BottomNavigationViewStyle" parent="Widget.Design.BottomNavigationView">
+        <item name="itemIconTint">@color/black</item>
+        <item name="itemTextColor">@color/black</item>
+        <item name="itemBackground">@drawable/menu_item_background</item>
+    </style>
+</resources>
